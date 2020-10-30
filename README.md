@@ -18,4 +18,4 @@ contribution ratio of 2nd principal component vector :0.230305
 
 また，作成されるプロットは以下のようになる．
 
-![graph](graph/plot.eps)
+![graph](graph/plot.pdf)
